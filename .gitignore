@@ -6,3 +6,6 @@
 /Source/SharpTracerRenderView/obj/Debug
 /Source/SharpTracerRenderView/bin/Debug
 /Source/.vs/SharpTracer/v16
+/Source/SharpTracerEngine/obj/Debug/netcoreapp2.1
+/Source/SharpTracerEngine/obj
+/Source/SharpTracerEngine/bin/Debug/netcoreapp2.1
