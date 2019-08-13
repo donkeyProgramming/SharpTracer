@@ -4,3 +4,5 @@
 
 /Source/.vs/SharpTracer/v16/Server/sqlite3
 /Source/SharpTracerRenderView/obj/Debug
+/Source/SharpTracerRenderView/bin/Debug
+/Source/.vs/SharpTracer/v16
